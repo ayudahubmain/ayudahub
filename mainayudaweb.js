@@ -7,7 +7,7 @@
 //    id      = "<your-kv-id>"
 // ============================================================
 
-const BATCH_DURATION = 600_000; // 10 minutes in ms
+const BATCH_DURATION = 10000; // 10 minutes in ms
 const MUSIC_URL =
   "https://mp3tourl.com/audio/1779373516167-dfd3f082-673a-402f-8926-d3b580f009f0.m4a";
 
